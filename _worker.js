@@ -4086,7 +4086,7 @@ var SignJWT = class extends ProduceJWT {
 
 // src/worker.js
 var userID = "60416e3d-0c91-416b-8807-b07153f77996";
-var trojanPassword = `bpb-trojan`;
+var trojanPassword = `bpb-maoxianli`;
 var proxyIPs = ["bpb.yousef.isegaro.com"];
 var defaultHttpPorts = ["80", "8080", "2052", "2082", "2086", "2095", "8880"];
 var defaultHttpsPorts = ["443", "8443", "2053", "2083", "2087", "2096"];
